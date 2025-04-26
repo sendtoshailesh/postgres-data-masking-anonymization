@@ -92,6 +92,20 @@ Privacy-preserving analytics
     - Real-world case studies
     - Implementation examples
     - Visual diagrams and explanations
+   
+## SQL Scripts
+
+All the SQL code examples from the documentation are also available as standalone SQL scripts in the [sql directory](sql/):
+
+1. [Setup and Initialization](sql/01_setup_and_init.sql)
+2. [Sample Data Creation](sql/02_sample_data_creation.sql)
+3. [Masking Views](sql/03_masking_views.sql)
+4. [Dynamic Masking](sql/04_dynamic_masking.sql)
+5. [Pseudonymization](sql/05_pseudonymization.sql)
+6. [K-Anonymity](sql/06_k_anonymity.sql)
+7. [Advanced Techniques](sql/07_advanced_techniques.sql)
+8. [Data Export](sql/08_data_export.sql)
+   
 
 ## Quick Start
 
