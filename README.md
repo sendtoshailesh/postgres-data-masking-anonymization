@@ -3,9 +3,13 @@
 This repository contains comprehensive documentation for using PostgreSQL Anonymizer, a powerful extension for masking and anonymizing sensitive data in PostgreSQL databases.
 
 • Step-by-step implementation of multiple anonymization techniques 
+
 • Practical examples of masking views, dynamic masking, and pseudonymization 
+
 • Real-world case studies from healthcare and financial sectors 
+
 • Performance optimization strategies 
+
 • Advanced features including differential privacy and data synthesis
 
 With data breaches costing an average of $4.45M in 2023, protecting sensitive data while maintaining its utility is crucial. This guide provides practical solutions for:
